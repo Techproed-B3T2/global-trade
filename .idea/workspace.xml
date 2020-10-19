@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d3d5049-a6f9-4b09-a61a-80ad2ff0a2a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j6vIxdvtfV7unGF7qwtr79kbJM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d3d5049-a6f9-4b09-a61a-80ad2ff0a2a2" name="Default Changelist" comment="" />
+      <created>1603137282180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603137282180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1999" y="39" key="#Project_Structure" timestamp="1603145455054">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1999" y="39" key="#Project_Structure/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1603145455054" />
+    <state x="2100" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603138263799">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2100" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1603138263799" />
+    <state x="2304" y="166" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603145524560">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2304" y="166" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1603145524560" />
+    <state x="2304" y="166" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1603138290208" />
+    <state x="2000" y="19" key="SettingsEditor" timestamp="1603145317422">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="19" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1603145317422" />
+    <state x="2287" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603145425677">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2287" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1603145425677" />
+  </component>
+</project>
