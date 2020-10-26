@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d3d5049-a6f9-4b09-a61a-80ad2ff0a2a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/global-trade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/global-trade.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LangaugePortalPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LangaugePortalPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/LanguagePortalStepsDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/LanguagePortalStepsDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US-2 User can use all of the language options.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US-2 User can use all of the language options.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +41,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -50,18 +64,20 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/utilities" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RunManager" selected="JUnit.Runner">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="utilities.Driver" />
       <module name="global-trade" />
@@ -82,8 +98,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Feature: US-2 User can use all of the language options" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US-2 User can use all of the language options.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="global-trade" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US-2 User can use all of the language options" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC02_Testing_the_language_portal" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US-2 User can use all of the language options.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="global-trade" />
+      <option name="NAME_FILTER" value="^TC02_Testing_the_language_portal$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC02_Testing_the_language_portal$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC02_Testing_the_language_portal" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="global-trade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Scenario: TC02_Testing_the_language_portal" />
+        <item itemvalue="Cucumber Java.Feature: US-2 User can use all of the language options" />
         <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Test" />
       </list>
@@ -101,9 +172,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1999" y="39" key="#Project_Structure" timestamp="1603146914142">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state x="213" y="23" key="#Project_Structure" timestamp="1603477537868">
+      <screen x="0" y="23" width="1280" height="722" />
     </state>
+    <state x="213" y="23" key="#Project_Structure/0.23.1280.722@0.23.1280.722" timestamp="1603477537868" />
     <state x="1999" y="39" key="#Project_Structure/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1603146914142" />
     <state x="2100" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603138263799">
       <screen x="1680" y="0" width="1920" height="1080" />
@@ -114,6 +186,34 @@
     </state>
     <state x="2304" y="166" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1603145524560" />
     <state x="2304" y="166" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1680.0.1920.1080/0.23.1680.1027@1680.0.1920.1080" timestamp="1603138290208" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom" timestamp="1603754001198">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1603750450263" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/1280.23.1600.1177/0.23.1280.722@0.23.1280.722" timestamp="1603751737259" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/1280.23.1600.1177/0.23.1280.724@0.23.1280.724" timestamp="1603753818458" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/1280.23.1600.1177/0.23.1280.725@0.23.1280.725" timestamp="1603754001198" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center" timestamp="1603754001196">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1603750450262" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center/1280.23.1600.1177/0.23.1280.722@0.23.1280.722" timestamp="1603751737257" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center/1280.23.1600.1177/0.23.1280.724@0.23.1280.724" timestamp="1603753818457" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center/1280.23.1600.1177/0.23.1280.725@0.23.1280.725" timestamp="1603754001196" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left" timestamp="1603754001195">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1603750450262" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left/1280.23.1600.1177/0.23.1280.722@0.23.1280.722" timestamp="1603751737256" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left/1280.23.1600.1177/0.23.1280.724@0.23.1280.724" timestamp="1603753818456" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left/1280.23.1600.1177/0.23.1280.725@0.23.1280.725" timestamp="1603754001195" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right" timestamp="1603754001197">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1603750450263" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right/1280.23.1600.1177/0.23.1280.722@0.23.1280.722" timestamp="1603751737258" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right/1280.23.1600.1177/0.23.1280.724@0.23.1280.724" timestamp="1603753818457" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right/1280.23.1600.1177/0.23.1280.725@0.23.1280.725" timestamp="1603754001197" />
     <state x="2000" y="19" key="SettingsEditor" timestamp="1603146970563">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
@@ -122,5 +222,10 @@
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2287" y="441" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1603145425677" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/global_trade$Feature__US_2_User_can_use_all_of_the_language_options.ic" NAME="Feature: US-2 User can use all of the language options Coverage Results" MODIFIED="1603484451932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
   </component>
 </project>

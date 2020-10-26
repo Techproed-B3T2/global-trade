@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.182">
+    <testcase classname="US-2 User_can_use_all_of_the_language_options" name="TC02_Testing_the_language_portal" time="15.987">
+        <system-out><![CDATA[Given user is on the global trader page.....................................passed
+And user click on the Language Portal.......................................passed
+And user select the Norwegian language......................................passed
+Then verify on the language portal box and language is selected Norwegian...passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,86 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-10-26T23:16:35.522Z",
+        "line": 3,
+        "name": "TC02_Testing_the_language_portal",
+        "description": "",
+        "id": "us-2-user-can-use-all-of-the-language-options;tc02-testing-the-language-portal",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9309681000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on the global trader page",
+            "match": {
+              "location": "stepdefinitions.LanguagePortalStepsDefinitions.user_is_on_the_global_trader_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3130770000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user click on the Language Portal",
+            "match": {
+              "location": "stepdefinitions.LanguagePortalStepsDefinitions.user_click_on_the_Language_Portal()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3407610000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user select the Norwegian language",
+            "match": {
+              "location": "stepdefinitions.LanguagePortalStepsDefinitions.user_select_the_Norwegian_language()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2588000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "verify on the language portal box and language is selected Norwegian",
+            "match": {
+              "location": "stepdefinitions.LanguagePortalStepsDefinitions.verify_on_the_language_portal_box_and_language_is_selected_Norwegian()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@hooks"
+          }
+        ]
+      }
+    ],
+    "name": "US-2 User_can_use_all_of_the_language_options",
+    "description": "",
+    "id": "us-2-user-can-use-all-of-the-language-options",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US-2%20User%20can%20use%20all%20of%20the%20language%20options.feature",
+    "tags": [
+      {
+        "name": "@hooks",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
